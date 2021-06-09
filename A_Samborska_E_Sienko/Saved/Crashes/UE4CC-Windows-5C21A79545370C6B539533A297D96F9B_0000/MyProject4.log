@@ -1,0 +1,1124 @@
+﻿Log file open, 11/30/20 15:14:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject4
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.539554
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/g/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.30-14.14.04:513][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.30-14.14.04:513][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2020.11.30-14.14.04:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.30-14.14.04:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2020.11.30-14.14.04:514][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2020.11.30-14.14.04:519][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.30-14.14.04:519][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.30-14.14.04:520][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.30-14.14.04:521][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.30-14.14.04:521][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.30-14.14.04:521][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.30-14.14.04:521][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.30-14.14.04:521][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.30-14.14.04:521][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.30-14.14.04:521][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:521][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.30-14.14.04:521][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.30-14.14.04:521][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.30-14.14.04:521][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.30-14.14.04:532][  0]LogHAL: Display: Platform has ~ 16 GB [17116282880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.11.30-14.14.04:532][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.30-14.14.04:532][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.30-14.14.04:532][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.30-14.14.04:533][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.30-14.14.04:533][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.30-14.14.04:534][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.30-14.14.04:534][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2020.11.30-14.14.04:534][  0]LogInit: Computer: DESKTOP-9S97J2U
+[2020.11.30-14.14.04:534][  0]LogInit: User: User
+[2020.11.30-14.14.04:534][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.11.30-14.14.04:534][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.30-14.14.04:534][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.11.30-14.14.04:534][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.30-14.14.04:534][  0]LogMemory: Process Physical Memory: 98.07 MB used, 98.08 MB peak
+[2020.11.30-14.14.04:534][  0]LogMemory: Process Virtual Memory: 90.08 MB used, 90.08 MB peak
+[2020.11.30-14.14.04:534][  0]LogMemory: Physical Memory: 5750.63 MB used,  10572.73 MB free, 16323.36 MB total
+[2020.11.30-14.14.04:534][  0]LogMemory: Virtual Memory: 4646.55 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.11.30-14.14.04:553][  0]LogInit: Using OS detected language (pl-PL).
+[2020.11.30-14.14.04:553][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.11.30-14.14.04:554][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.11.30-14.14.04:555][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.11.30-14.14.04:555][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.11.30-14.14.04:555][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.11.30-14.14.04:555][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.11.30-14.14.04:555][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.11.30-14.14.04:555][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.11.30-14.14.04:555][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.11.30-14.14.04:556][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.30-14.14.04:585][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.30-14.14.04:585][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.30-14.14.04:836][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.30-14.14.04:836][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.30-14.14.04:921][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.11.30-14.14.04:921][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.11.30-14.14.04:923][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.30-14.14.04:923][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.30-14.14.04:923][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.30-14.14.04:929][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.30-14.14.04:929][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.30-14.14.04:929][  0]LogWindows: EnumDisplayDevices:
+[2020.11.30-14.14.04:930][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.11.30-14.14.04:930][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.11.30-14.14.04:930][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.11.30-14.14.04:931][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.11.30-14.14.04:931][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.30-14.14.04:931][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.11.30-14.14.04:931][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.11.30-14.14.04:931][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.11.30-14.14.04:931][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.11.30-14.14.04:984][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.30-14.14.04:987][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.11.30-14.14.04:987][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.11.30-14.14.04:987][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.11.30-14.14.04:995][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.30-14.14.05:272][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.11.30-14.14.05:283][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.11.30-14.14.05:293][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.11.30-14.14.05:304][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.11.30-14.14.05:314][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.11.30-14.14.05:325][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.11.30-14.14.05:335][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.30-14.14.05:346][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.11.30-14.14.05:351][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.11.30-14.14.05:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.11.30-14.14.05:414][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.11.30-14.14.05:458][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.11.30-14.14.05:458][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.11.30-14.14.05:476][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.11.30-14.14.05:476][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.11.30-14.14.05:485][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.11.30-14.14.05:495][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.30-14.14.05:505][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.11.30-14.14.05:516][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.11.30-14.14.05:554][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.11.30-14.14.05:554][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.11.30-14.14.05:554][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.30-14.14.05:561][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.30-14.14.05:596][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/MyProject4/Intermediate/Shaders/WorkingDirectory/4808/).
+[2020.11.30-14.14.05:596][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/86F9EEAD4B5A6A2DEF5ED39F49B5D59A/'.
+[2020.11.30-14.14.05:597][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.30-14.14.05:597][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.30-14.14.05:598][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.30-14.14.06:079][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.30-14.14.06:119][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.11.30-14.14.06:119][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.11.30-14.14.06:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/MyProject4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.30-14.14.06:119][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.30-14.14.06:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/MyProject4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.30-14.14.06:119][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.30-14.14.06:130][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.30-14.14.06:130][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.30-14.14.06:130][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.30-14.14.06:141][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.30-14.14.06:141][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.30-14.14.06:141][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.30-14.14.06:158][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.30-14.14.06:159][  0]LogSlate: Using FreeType 2.6.0
+[2020.11.30-14.14.06:160][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.30-14.14.06:249][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2020.11.30-14.14.06:503][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.30-14.14.06:611][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.30-14.14.06:611][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.30-14.14.06:611][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.30-14.14.06:611][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.30-14.14.06:611][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.30-14.14.06:620][  0]LogNetVersion: MyProject4 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2436511686)
+[2020.11.30-14.14.06:940][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032341 seconds
+[2020.11.30-14.14.06:946][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.11.30-14.14.06:946][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.11.30-14.14.06:946][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.30-14.14.07:765][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.30-14.14.07:779][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.30-14.14.07:873][  0]SourceControl: Source control is disabled
+[2020.11.30-14.14.07:873][  0]SourceControl: Source control is disabled
+[2020.11.30-14.14.07:874][  0]SourceControl: Source control is disabled
+[2020.11.30-14.14.07:875][  0]SourceControl: Source control is disabled
+[2020.11.30-14.14.07:940][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.30-14.14.08:035][  0]LogOcInput: OculusInput pre-init called
+[2020.11.30-14.14.08:765][  0]LogEngine: Initializing Engine...
+[2020.11.30-14.14.08:766][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.30-14.14.08:767][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.30-14.14.08:930][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.30-14.14.08:938][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.30-14.14.08:974][  0]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.11.30-14.14.08:994][  0]LogInit: FAudioDevice initialized.
+[2020.11.30-14.14.08:994][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.30-14.14.09:061][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.11.30-14.14.09:067][  0]LogInit: Texture streaming: Enabled
+[2020.11.30-14.14.09:081][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.30-14.14.09:095][  0]LogInit: Transaction tracking system initialized
+[2020.11.30-14.14.09:110][  0]BlueprintLog: New page: Editor Load
+[2020.11.30-14.14.09:163][  0]LocalizationService: Localization service is disabled
+[2020.11.30-14.14.09:384][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.30-14.14.09:384][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.30-14.14.09:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/' took 0.02s
+[2020.11.30-14.14.09:522][  0]SourceControl: Source control is disabled
+[2020.11.30-14.14.09:522][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.30-14.14.09:523][  0]LightingResults: New page: Lighting Build
+[2020.11.30-14.14.09:524][  0]MapCheck: New page: Map Check
+[2020.11.30-14.14.09:524][  0]LightingResults: New page: Lighting Build
+[2020.11.30-14.14.09:547][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.11.30-14.14.09:846][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.30-14.14.09:854][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.30-14.14.09:879][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.11.30-14.14.09:879][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.30-14.14.09:879][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,17ms to complete.
+[2020.11.30-14.14.09:879][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.357
+[2020.11.30-14.14.09:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.30-14.14.09:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.30-14.14.09:989][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.30-14.14.09:994][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.30-14.14.09:999][  0]LogCollectionManager: Loaded 0 collections in 0.000865 seconds
+[2020.11.30-14.14.10:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Collections/' took 0.01s
+[2020.11.30-14.14.10:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/Developers/User/Collections/' took 0.01s
+[2020.11.30-14.14.10:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/Collections/' took 0.01s
+[2020.11.30-14.14.10:035][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.11.30-14.14.10:041][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2732 classes and 659 folders.
+[2020.11.30-14.14.10:045][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.30-14.14.10:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.11.30-14.14.10:113][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.30-14.14.10:116][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.11.30-14.14.10:129][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.30-14.14.10:130][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.30-14.14.10:134][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.30-14.14.10:187][  0]LogRenderer: Reallocating scene render targets to support 1052x580 Format 10 NumSamples 1 (Frame:1).
+[2020.11.30-14.14.10:293][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.30-14.14.10:293][  0]LogLoad: (Engine Initialization) Total time: 8.44 seconds
+[2020.11.30-14.14.10:293][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.30-14.14.10:321][  0]LogAssetRegistry: Asset discovery search completed in 4.0945 seconds
+[2020.11.30-14.14.10:323][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.11.30-14.14.10:323][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2020.11.30-14.14.10:324][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.30-14.14.10:361][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.30-14.14.28:302][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.14.46:132][211]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2020.11.30-14.14.46:132][211]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.11.30-14.14.48:463][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.14.53:050][  6]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall1)
+[2020.11.30-14.14.53:115][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-14.14.56:062][339]Cmd: TRANSACTION UNDO
+[2020.11.30-14.14.56:062][339]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.11.30-14.14.56:096][339]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.30-14.14.57:100][459]Cmd: TRANSACTION UNDO
+[2020.11.30-14.14.57:100][459]LogEditorTransaction: Undo Set Material
+[2020.11.30-14.15.00:530][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.15.02:317][ 81]Cmd: POLY SELECT ADJACENT ALL
+[2020.11.30-14.15.21:110][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.15.29:134][263]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2020.11.30-14.15.32:659][686]Cmd: TRANSACTION UNDO
+[2020.11.30-14.15.32:659][686]LogEditorTransaction: Undo Set Texscale
+[2020.11.30-14.15.36:757][174]Cmd: POLY TEXSCALE  UU=0.216216 VV=0.216216
+[2020.11.30-14.15.37:716][289]Cmd: TRANSACTION UNDO
+[2020.11.30-14.15.37:716][289]LogEditorTransaction: Undo Set Texscale
+[2020.11.30-14.15.44:103][ 52]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2020.11.30-14.15.47:537][464]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2020.11.30-14.15.58:818][789]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.30-14.16.07:178][736]Cmd: TRANSACTION UNDO
+[2020.11.30-14.16.07:178][736]LogEditorTransaction: Undo Move Actors
+[2020.11.30-14.16.07:194][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_10' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_10.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_11' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_11.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_12' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_12.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_13' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_13.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_14' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_14.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:195][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:196][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_16' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:196][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_16.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:196][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_17' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:196][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_17.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:196][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_18' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:196][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_18.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:196][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_19' invalid (4294 verts, 0 indices).
+[2020.11.30-14.16.07:196][736]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_19.BodySetup_0 when we are unable to.
+[2020.11.30-14.16.07:202][736]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.11.30-14.16.07:202][736]LogGeometryMode: Warning: Unable to resolve BoxBrush5_11 Brush in new BSP, see above
+[2020.11.30-14.16.07:202][736]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.11.30-14.16.07:751][797]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2020.11.30-14.16.07:751][797]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.11.30-14.16.19:391][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2020.11.30-14.16.24:956][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2020.11.30-14.16.27:721][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.16.30:650][474]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.30-14.16.40:071][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.11.30-14.16.40:824][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.17.02:703][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.17.12:488][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.11.30-14.17.16:294][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.11.30-14.17.20:269][471]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.11.30-14.17.34:076][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.30-14.18.01:441][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.18.08:956][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-14.18.08:965][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\książki_bok.fbx)
+[2020.11.30-14.18.08:977][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\książki_bok.fbx
+[2020.11.30-14.18.08:982][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.10:454][232]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.30-14.18.10:610][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/książki_bok'
+[2020.11.30-14.18.10:611][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\książki_bok.png
+[2020.11.30-14.18.10:613][232]LogMaterial: Display: Missing cached shader map for material książki_bok1, compiling. 
+[2020.11.30-14.18.10:643][232]LogFbx: Display: Triangulating static mesh książki_bok
+[2020.11.30-14.18.10:650][232]LogStaticMesh: Building static mesh książki_bok...
+[2020.11.30-14.18.10:651][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/książki_bok.książki_bok
+[2020.11.30-14.18.10:654][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.10:667][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\książki_góra.fbx)
+[2020.11.30-14.18.10:679][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\książki_góra.fbx
+[2020.11.30-14.18.10:685][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.10:690][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/książki_góra'
+[2020.11.30-14.18.10:691][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\książki_góra.png
+[2020.11.30-14.18.10:694][232]LogMaterial: Display: Missing cached shader map for material książki_góra1, compiling. 
+[2020.11.30-14.18.10:707][232]LogFbx: Display: Triangulating static mesh książki_góra
+[2020.11.30-14.18.10:716][232]LogStaticMesh: Building static mesh książki_góra...
+[2020.11.30-14.18.10:716][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/książki_góra.książki_góra
+[2020.11.30-14.18.10:720][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.10:724][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\notes.fbx)
+[2020.11.30-14.18.10:736][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\notes.fbx
+[2020.11.30-14.18.10:744][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.10:750][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/notes'
+[2020.11.30-14.18.10:750][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\notes.png
+[2020.11.30-14.18.10:753][232]LogMaterial: Display: Missing cached shader map for material notes1, compiling. 
+[2020.11.30-14.18.10:765][232]LogFbx: Display: Triangulating static mesh notes
+[2020.11.30-14.18.10:772][232]LogStaticMesh: Building static mesh notes...
+[2020.11.30-14.18.10:772][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/notes.notes
+[2020.11.30-14.18.10:776][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.10:780][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\notes_bok.fbx)
+[2020.11.30-14.18.10:793][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\notes_bok.fbx
+[2020.11.30-14.18.10:800][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.10:805][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\ash_decal.png
+[2020.11.30-14.18.10:807][232]LogMaterial: Display: Missing cached shader map for material ash_decal, compiling. 
+[2020.11.30-14.18.10:819][232]LogFbx: Display: Triangulating static mesh ash_decal
+[2020.11.30-14.18.10:828][232]LogStaticMesh: Building static mesh notes_bok...
+[2020.11.30-14.18.10:829][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/notes_bok.notes_bok
+[2020.11.30-14.18.10:833][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.10:837][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\notes_góra.fbx)
+[2020.11.30-14.18.10:850][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\notes_góra.fbx
+[2020.11.30-14.18.10:856][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.10:860][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/notes_góra'
+[2020.11.30-14.18.10:860][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\notes_góra.png
+[2020.11.30-14.18.10:863][232]LogMaterial: Display: Missing cached shader map for material notes_góra1, compiling. 
+[2020.11.30-14.18.10:875][232]LogFbx: Display: Triangulating static mesh notes_góra
+[2020.11.30-14.18.10:885][232]LogStaticMesh: Building static mesh notes_góra...
+[2020.11.30-14.18.10:885][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/notes_góra.notes_góra
+[2020.11.30-14.18.10:894][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.10:898][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\nożyczki.fbx)
+[2020.11.30-14.18.10:911][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\nożyczki.fbx
+[2020.11.30-14.18.10:916][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.10:921][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/nożyczki'
+[2020.11.30-14.18.10:922][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\nożyczki.png
+[2020.11.30-14.18.10:925][232]LogMaterial: Display: Missing cached shader map for material nożyczki1, compiling. 
+[2020.11.30-14.18.10:941][232]LogFbx: Display: Triangulating static mesh nożyczki
+[2020.11.30-14.18.10:955][232]LogStaticMesh: Building static mesh nożyczki...
+[2020.11.30-14.18.10:956][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/nożyczki.nożyczki
+[2020.11.30-14.18.10:960][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.10:966][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\stołek_1.fbx)
+[2020.11.30-14.18.10:982][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\stołek_1.fbx
+[2020.11.30-14.18.10:989][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.10:997][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/stołek_1'
+[2020.11.30-14.18.10:997][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\stołek_1.png
+[2020.11.30-14.18.11:001][232]LogMaterial: Display: Missing cached shader map for material stołek_2, compiling. 
+[2020.11.30-14.18.11:016][232]LogFbx: Display: Triangulating static mesh stołek_1
+[2020.11.30-14.18.11:029][232]LogStaticMesh: Building static mesh stołek_1...
+[2020.11.30-14.18.11:030][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/stołek_1.stołek_1
+[2020.11.30-14.18.11:035][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.11:181][232]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.11.30-14.18.11:249][232]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.11.30-14.18.12:560][232]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.11.30-14.18.12:648][232]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.11.30-14.18.12:733][232]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.11.30-14.18.12:767][232]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.11.30-14.18.13:038][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.13:068][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.11.30-14.18.13:965][232]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.11.30-14.18.14:016][232]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.18.14:049][232]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.18.14:833][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.14:836][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/stołek_2'. The asset is referenced by other content.
+[2020.11.30-14.18.14:839][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\stołek_3.fbx)
+[2020.11.30-14.18.14:852][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\stołek_3.fbx
+[2020.11.30-14.18.14:858][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.14:863][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/stołek_3'
+[2020.11.30-14.18.14:864][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\stołek_3.png
+[2020.11.30-14.18.14:867][232]LogMaterial: Display: Missing cached shader map for material stołek_4, compiling. 
+[2020.11.30-14.18.14:881][232]LogFbx: Display: Triangulating static mesh stołek_3
+[2020.11.30-14.18.14:892][232]LogStaticMesh: Building static mesh stołek_3...
+[2020.11.30-14.18.14:893][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/stołek_3.stołek_3
+[2020.11.30-14.18.14:897][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.14:902][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\taca.fbx)
+[2020.11.30-14.18.14:916][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\taca.fbx
+[2020.11.30-14.18.14:926][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.14:933][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/taca'
+[2020.11.30-14.18.14:933][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\taca.png
+[2020.11.30-14.18.14:938][232]LogMaterial: Display: Missing cached shader map for material taca1, compiling. 
+[2020.11.30-14.18.14:957][232]LogFbx: Display: Triangulating static mesh taca
+[2020.11.30-14.18.14:972][232]LogStaticMesh: Building static mesh taca...
+[2020.11.30-14.18.14:973][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/taca.taca
+[2020.11.30-14.18.14:977][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.14:982][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\wall_decal.fbx)
+[2020.11.30-14.18.14:996][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\wall_decal.fbx
+[2020.11.30-14.18.15:004][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.15:012][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/wall_decal'
+[2020.11.30-14.18.15:013][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\wall_decal.png
+[2020.11.30-14.18.15:017][232]LogMaterial: Display: Missing cached shader map for material wall_decal1, compiling. 
+[2020.11.30-14.18.15:034][232]LogFbx: Display: Triangulating static mesh wall_decal
+[2020.11.30-14.18.15:048][232]LogStaticMesh: Building static mesh wall_decal...
+[2020.11.30-14.18.15:049][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/wall_decal.wall_decal
+[2020.11.30-14.18.15:053][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.15:057][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\zasłona_1.fbx)
+[2020.11.30-14.18.15:070][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\zasłona_1.fbx
+[2020.11.30-14.18.15:077][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.15:084][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/zasłona_1'
+[2020.11.30-14.18.15:085][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\zasłona_1.png
+[2020.11.30-14.18.15:090][232]LogMaterial: Display: Missing cached shader map for material zasłona_2, compiling. 
+[2020.11.30-14.18.15:106][232]LogFbx: Display: Triangulating static mesh zasłona_1
+[2020.11.30-14.18.15:121][232]LogStaticMesh: Building static mesh zasłona_1...
+[2020.11.30-14.18.15:122][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/zasłona_1.zasłona_1
+[2020.11.30-14.18.15:126][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.15:155][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.11.30-14.18.17:992][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.17:996][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/zasłona_2'. The asset is referenced by other content.
+[2020.11.30-14.18.17:998][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\zasłona_3.fbx)
+[2020.11.30-14.18.18:013][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\zasłona_3.fbx
+[2020.11.30-14.18.18:019][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.18:025][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/zasłona_3'
+[2020.11.30-14.18.18:026][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\zasłona_3.png
+[2020.11.30-14.18.18:029][232]LogMaterial: Display: Missing cached shader map for material zasłona_4, compiling. 
+[2020.11.30-14.18.18:040][232]LogFbx: Display: Triangulating static mesh zasłona_3
+[2020.11.30-14.18.18:052][232]LogStaticMesh: Building static mesh zasłona_3...
+[2020.11.30-14.18.18:053][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/zasłona_3.zasłona_3
+[2020.11.30-14.18.18:057][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.18:083][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.11.30-14.18.18:693][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.18:697][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/ash_decal'. The asset is referenced by other content.
+[2020.11.30-14.18.18:700][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\ash_decal2.fbx)
+[2020.11.30-14.18.18:709][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\ash_decal2.fbx
+[2020.11.30-14.18.18:715][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.18:721][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/ash_decal2'
+[2020.11.30-14.18.18:721][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\ash_decal2.png
+[2020.11.30-14.18.18:724][232]LogMaterial: Display: Missing cached shader map for material ash_decal3, compiling. 
+[2020.11.30-14.18.18:734][232]LogFbx: Display: Triangulating static mesh ash_decal2
+[2020.11.30-14.18.18:749][232]LogStaticMesh: Building static mesh ash_decal2...
+[2020.11.30-14.18.18:749][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/ash_decal2.ash_decal2
+[2020.11.30-14.18.18:753][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.18:757][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\barierka_1.fbx)
+[2020.11.30-14.18.18:769][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\barierka_1.fbx
+[2020.11.30-14.18.18:779][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.18:783][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/barierka_1'
+[2020.11.30-14.18.18:784][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\barierka_1.png
+[2020.11.30-14.18.18:787][232]LogMaterial: Display: Missing cached shader map for material barierka_2, compiling. 
+[2020.11.30-14.18.18:799][232]LogFbx: Display: Triangulating static mesh barierka_1
+[2020.11.30-14.18.18:810][232]LogStaticMesh: Building static mesh barierka_1...
+[2020.11.30-14.18.18:811][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/barierka_1.barierka_1
+[2020.11.30-14.18.18:819][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.18:846][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.11.30-14.18.19:490][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.19:494][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/barierka_2'. The asset is referenced by other content.
+[2020.11.30-14.18.19:496][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\barierka_drewno_1.fbx)
+[2020.11.30-14.18.19:509][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\barierka_drewno_1.fbx
+[2020.11.30-14.18.19:515][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.19:523][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/barierka_drewno_1'
+[2020.11.30-14.18.19:523][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\barierka_drewno_1.png
+[2020.11.30-14.18.19:526][232]LogMaterial: Display: Missing cached shader map for material barierka_drewno_2, compiling. 
+[2020.11.30-14.18.19:539][232]LogFbx: Display: Triangulating static mesh barierka_drewno_1
+[2020.11.30-14.18.19:550][232]LogStaticMesh: Building static mesh barierka_drewno_1...
+[2020.11.30-14.18.19:551][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/barierka_drewno_1.barierka_drewno_1
+[2020.11.30-14.18.19:554][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.19:583][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.11.30-14.18.19:999][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.20:002][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/barierka_drewno_2'. The asset is referenced by other content.
+[2020.11.30-14.18.20:005][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\barierka_góra.fbx)
+[2020.11.30-14.18.20:020][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\barierka_góra.fbx
+[2020.11.30-14.18.20:027][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.20:035][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/barierka_góra'
+[2020.11.30-14.18.20:036][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\barierka_góra.png
+[2020.11.30-14.18.20:040][232]LogMaterial: Display: Missing cached shader map for material barierka_góra1, compiling. 
+[2020.11.30-14.18.20:056][232]LogFbx: Display: Triangulating static mesh barierka_góra
+[2020.11.30-14.18.20:071][232]LogStaticMesh: Building static mesh barierka_góra...
+[2020.11.30-14.18.20:072][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/barierka_góra.barierka_góra
+[2020.11.30-14.18.20:076][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.20:082][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\belka_1.fbx)
+[2020.11.30-14.18.20:097][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\belka_1.fbx
+[2020.11.30-14.18.20:104][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.20:112][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/belka_1'
+[2020.11.30-14.18.20:112][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\belka_1.png
+[2020.11.30-14.18.20:115][232]LogMaterial: Display: Missing cached shader map for material belka_2, compiling. 
+[2020.11.30-14.18.20:130][232]LogFbx: Display: Triangulating static mesh belka_1
+[2020.11.30-14.18.20:142][232]LogStaticMesh: Building static mesh belka_1...
+[2020.11.30-14.18.20:143][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/belka_1.belka_1
+[2020.11.30-14.18.20:147][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.20:177][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.11.30-14.18.20:876][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.20:881][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/belka_2'. The asset is referenced by other content.
+[2020.11.30-14.18.20:883][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\door_1.fbx)
+[2020.11.30-14.18.20:898][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\door_1.fbx
+[2020.11.30-14.18.20:904][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.20:912][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/door_1'
+[2020.11.30-14.18.20:913][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\door_1.png
+[2020.11.30-14.18.20:917][232]LogMaterial: Display: Missing cached shader map for material door_2, compiling. 
+[2020.11.30-14.18.20:932][232]LogFbx: Display: Triangulating static mesh door_1
+[2020.11.30-14.18.20:946][232]LogStaticMesh: Building static mesh door_1...
+[2020.11.30-14.18.20:947][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/door_1.door_1
+[2020.11.30-14.18.20:951][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.20:979][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.11.30-14.18.21:542][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.21:545][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/door_2'. The asset is referenced by other content.
+[2020.11.30-14.18.21:548][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\drewno_blat.fbx)
+[2020.11.30-14.18.21:562][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\drewno_blat.fbx
+[2020.11.30-14.18.21:570][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.21:578][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/drewno_blat'
+[2020.11.30-14.18.21:578][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\drewno_blat.png
+[2020.11.30-14.18.21:583][232]LogMaterial: Display: Missing cached shader map for material drewno_blat1, compiling. 
+[2020.11.30-14.18.21:598][232]LogFbx: Display: Triangulating static mesh drewno_blat
+[2020.11.30-14.18.21:610][232]LogStaticMesh: Building static mesh drewno_blat...
+[2020.11.30-14.18.21:611][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/drewno_blat.drewno_blat
+[2020.11.30-14.18.21:615][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.21:622][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\drewno_bok_1.fbx)
+[2020.11.30-14.18.21:636][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\drewno_bok_1.fbx
+[2020.11.30-14.18.21:645][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.21:654][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/drewno_bok_1'
+[2020.11.30-14.18.21:654][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\drewno_bok_1.png
+[2020.11.30-14.18.21:658][232]LogMaterial: Display: Missing cached shader map for material drewno_bok_2, compiling. 
+[2020.11.30-14.18.21:677][232]LogFbx: Display: Triangulating static mesh drewno_bok_1
+[2020.11.30-14.18.21:692][232]LogStaticMesh: Building static mesh drewno_bok_1...
+[2020.11.30-14.18.21:693][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/drewno_bok_1.drewno_bok_1
+[2020.11.30-14.18.21:698][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.21:727][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.11.30-14.18.21:933][232]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.11.30-14.18.21:951][232]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.11.30-14.18.21:968][232]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.11.30-14.18.22:324][232]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.11.30-14.18.22:392][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.22:396][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/drewno_bok_2'. The asset is referenced by other content.
+[2020.11.30-14.18.22:398][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\dywan.fbx)
+[2020.11.30-14.18.22:412][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\dywan.fbx
+[2020.11.30-14.18.22:421][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.22:429][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/dywan'
+[2020.11.30-14.18.22:429][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\dywan.png
+[2020.11.30-14.18.22:433][232]LogMaterial: Display: Missing cached shader map for material dywan1, compiling. 
+[2020.11.30-14.18.22:447][232]LogFbx: Display: Triangulating static mesh dywan
+[2020.11.30-14.18.22:461][232]LogStaticMesh: Building static mesh dywan...
+[2020.11.30-14.18.22:462][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/dywan.dywan
+[2020.11.30-14.18.22:467][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.22:473][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\książki_1.fbx)
+[2020.11.30-14.18.22:487][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\książki_1.fbx
+[2020.11.30-14.18.22:495][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.22:503][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/książki_1'
+[2020.11.30-14.18.22:504][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\książki_1.png
+[2020.11.30-14.18.22:508][232]LogMaterial: Display: Missing cached shader map for material książki_2, compiling. 
+[2020.11.30-14.18.22:524][232]LogFbx: Display: Triangulating static mesh książki_1
+[2020.11.30-14.18.22:540][232]LogStaticMesh: Building static mesh książki_1...
+[2020.11.30-14.18.22:541][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/książki_1.książki_1
+[2020.11.30-14.18.22:551][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.22:579][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.11.30-14.18.23:210][232]LogSlate: Window 'Message' being destroyed
+[2020.11.30-14.18.23:214][232]LogAssetTools: Warning: Failed to delete '/Game/FirstPersonBP/hospital/MESH/książki_2'. The asset is referenced by other content.
+[2020.11.30-14.18.23:217][232]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\studia\PRZESTRZEŃ\mesh\książki_3.fbx)
+[2020.11.30-14.18.23:231][232]LogFbx: Loading FBX Scene from D:\studia\PRZESTRZEŃ\mesh\książki_3.fbx
+[2020.11.30-14.18.23:237][232]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.30-14.18.23:246][232]LogLinker: Can't find file '/Game/FirstPersonBP/hospital/MESH/książki_3'
+[2020.11.30-14.18.23:247][232]LogFbxMaterialImport: Warning: Unable to find Texture file D:\studia\PRZESTRZEŃ\tekstury\książki_3.png
+[2020.11.30-14.18.23:251][232]LogMaterial: Display: Missing cached shader map for material książki_4, compiling. 
+[2020.11.30-14.18.23:267][232]LogFbx: Display: Triangulating static mesh książki_3
+[2020.11.30-14.18.23:281][232]LogStaticMesh: Building static mesh książki_3...
+[2020.11.30-14.18.23:282][232]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/hospital/MESH/książki_3.książki_3
+[2020.11.30-14.18.23:287][232]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.30-14.18.44:991][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.11.30-14.18.47:849][556]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-14.18.47:854][556]LogUObjectGlobals: Force Deleting 23 Package(s):
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/ash_decal.ash_decal
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/ash_decal3.ash_decal3
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/barierka_2.barierka_2
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/barierka_drewno_2.barierka_drewno_2
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/barierka_góra1.barierka_góra1
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/belka_2.belka_2
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/door_2.door_2
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/drewno_blat1.drewno_blat1
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/drewno_bok_2.drewno_bok_2
+	Asset Name: /Game/FirstPersonBP/hospital/MESH/dywan1.dywan1
+[2020.11.30-14.18.50:566][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.11.30-14.18.53:016][841]LogSlate: Window 'Message Log' being destroyed
+[2020.11.30-14.18.53:020][841]LogSlate: Window 'Message Log' being destroyed
+[2020.11.30-14.19.10:303][912]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.864 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.11.30-14.19.21:714][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.19.22:581][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.19.24:135][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.19.25:060][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-14.19.26:367][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.19.27:518][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.19.28:846][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.19.34:236][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.19.34:386][674]Cmd: MODE GRID=0
+[2020.11.30-14.19.35:973][864]Cmd: MODE GRID=1
+[2020.11.30-14.19.44:210][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.19.44:649][901]LogActorFactory: Actor Factory created barierka_drewno_1
+[2020.11.30-14.19.46:465][118]LogActorFactory: Actor Factory created barierka_drewno_1
+[2020.11.30-14.19.57:138][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.20.18:954][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.11.30-14.20.20:161][979]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-14.20.20:212][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.11.30-14.20.23:332][348]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.20.24:796][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-14.20.25:011][540]LogAssetEditorManager: Opening Asset editor for Material /Game/FirstPersonBP/hospital/texture/OBJ/Tbarierka_drewno_1_Mat.Tbarierka_drewno_1_Mat
+[2020.11.30-14.20.25:028][540]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.20.25:045][540]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.20.25:673][540]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.20.25:686][540]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.20.25:689][540]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.20.25:725][540]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.30-14.20.25:782][540]LogSlate: Took 0.018343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.30-14.20.26:058][541]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.20.26:158][546]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.20.26:984][604]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.11.30-14.20.26:984][604]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.11.30-14.20.26:984][604]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.11.30-14.20.26:984][604]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.30-14.20.26:984][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.30-14.20.26:984][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.30-14.20.31:493][ 88]LogAssetEditorManager: Opening Asset editor for Material /Game/FirstPersonBP/hospital/texture/Tash_Mat.Tash_Mat
+[2020.11.30-14.20.31:495][ 88]LogMaterial: Display: Missing cached shader map for material Tash_Mat, compiling. 
+[2020.11.30-14.20.31:551][ 88]LogMaterial: Display: Missing cached shader map for material Tash_Mat, compiling. 
+[2020.11.30-14.20.31:562][ 88]LogMaterial: Display: Missing cached shader map for material Tash_Mat, compiling. 
+[2020.11.30-14.20.31:577][ 88]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.20.31:601][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.11.30-14.20.31:753][ 91]LogSlate: Took 0.008835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.30-14.20.31:834][ 96]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.20.32:653][157]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.11.30-14.20.32:654][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.11.30-14.20.32:654][157]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.11.30-14.20.32:654][157]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.30-14.20.32:654][157]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.30-14.20.32:654][157]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.30-14.20.40:750][ 31]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.20.40:770][ 32]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.20.41:029][ 52]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.20.42:067][153]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.11.30-14.20.42:067][153]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.11.30-14.20.42:067][153]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.11.30-14.20.42:067][153]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.30-14.20.42:067][153]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.30-14.20.42:067][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.30-14.20.44:544][449]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.20.44:566][451]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.20.44:830][471]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.20.46:779][677]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.20.46:796][678]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.20.47:059][699]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.20.47:811][763]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.11.30-14.20.47:811][763]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.11.30-14.20.47:811][763]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.11.30-14.20.47:811][763]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.30-14.20.47:811][763]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.30-14.20.47:811][763]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.30-14.20.53:717][471]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.20.53:728][471]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.20.53:976][494]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.21.00:042][202]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.00:056][202]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.00:068][202]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.00:096][204]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.21.00:451][234]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.21.01:345][307]MaterialEditorStats: Base pass shader: 115 instructions
+[2020.11.30-14.21.01:345][307]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2020.11.30-14.21.01:345][307]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2020.11.30-14.21.01:345][307]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.30-14.21.01:345][307]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.30-14.21.01:345][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.30-14.21.09:165][243]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.09:185][244]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.21.09:516][275]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.21.11:526][492]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.11:548][493]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.21.11:880][523]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.21.12:539][580]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.12:574][580]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.11.30-14.21.12:576][580]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.12:598][580]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.12:737][588]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.11.30-14.21.12:970][605]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.21.13:660][653]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.21.14:628][732]MaterialEditorStats: Base pass shader: 69 instructions
+[2020.11.30-14.21.14:628][732]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2020.11.30-14.21.14:628][732]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.11.30-14.21.14:628][732]MaterialEditorStats: Texture samplers: 3/16
+[2020.11.30-14.21.14:628][732]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.30-14.21.14:628][732]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.30-14.21.15:897][884]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.15:921][885]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.11.30-14.21.16:147][906]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.21.16:747][954]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.21.17:613][ 32]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.17:623][ 32]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.21.17:625][ 32]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.17:639][ 32]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.17:919][ 50]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.21.18:171][ 68]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.21.19:057][141]MaterialEditorStats: Base pass shader: 115 instructions
+[2020.11.30-14.21.19:057][141]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2020.11.30-14.21.19:057][141]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2020.11.30-14.21.19:057][141]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.30-14.21.19:057][141]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.30-14.21.19:057][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.30-14.21.23:405][662]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.23:431][662]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.30-14.21.23:447][662]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.11.30-14.21.23:786][687]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.11.30-14.21.24:057][706]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.11.30-14.21.24:327][725]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.11.30-14.21.25:204][787]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.11.30-14.21.25:204][787]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.11.30-14.21.25:204][787]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2020.11.30-14.21.25:204][787]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.30-14.21.25:204][787]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.30-14.21.25:204][787]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.30-14.21.26:728][969]LogMaterialEditor: Saving and Compiling material Tbarierka_drewno_1_Mat
+[2020.11.30-14.21.27:083][969]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.27:132][969]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.11.30-14.21.27:142][969]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.27:162][969]LogMaterial: Display: Missing cached shader map for material Tbarierka_drewno_1_Mat, compiling. 
+[2020.11.30-14.21.27:201][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.30-14.21.27:211][969]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.11.30-14.21.28:491][969]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.11.30-14.21.28:491][969]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.11.30-14.21.28:491][969]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.11.30-14.21.28:491][969]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.11.30-14.21.28:492][969]TextureStreamingBuild: Display: Compiling optional shaders took 1.291 seconds.
+[2020.11.30-14.21.28:533][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.30-14.21.30:780][969]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Tbarierka_drewno_1_Mat3966207A48A947CCE4CD0D90747B6E30.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/hospital/texture/OBJ/Tbarierka_drewno_1_Mat.uasset'
+[2020.11.30-14.21.36:008][591]LogSlate: Window 'Tash_Mat' being destroyed
+[2020.11.30-14.21.36:010][591]LogSlate: Window 'Tash_Mat' being destroyed
+[2020.11.30-14.21.46:801][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.11.30-14.21.53:600][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barierka_drewno_1)
+[2020.11.30-14.21.55:107][826]Cmd: EDIT COPY
+[2020.11.30-14.21.55:341][854]Cmd: EDIT PASTE
+[2020.11.30-14.21.59:530][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2020.11.30-14.22.14:937][186]Cmd: EDIT COPY
+[2020.11.30-14.22.15:153][212]Cmd: EDIT PASTE
+[2020.11.30-14.22.16:960][424]Cmd: TRANSACTION UNDO
+[2020.11.30-14.22.16:960][424]LogEditorTransaction: Undo Move Actors
+[2020.11.30-14.22.16:971][424]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.30-14.22.18:818][424]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.848 s
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: 
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: 
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: Stack: 
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffe9981639 UE4Editor-Engine.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffe89583b1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffeb344e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffeb366366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffeb352f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffeb3aac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffeb3eae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffeb38929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffeb3526cc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffeb34c576 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffebadf0aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffceb3559e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffceb359fe UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffedcd71ea UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffedd0743e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffceb44fde UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffceb3542e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffedd08e48 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007fffedcff1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff82645b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff82644ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff82645d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff82644c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff855cce858 USER32.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff855cce299 USER32.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff82645e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff60d935d3e UE4Editor.exe!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff60d94554c UE4Editor.exe!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff60d9455ca UE4Editor.exe!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff60d95316c UE4Editor.exe!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff60d955b8e UE4Editor.exe!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff857677034 KERNEL32.DLL!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: [Callstack] 0x00007ff857c3cec1 ntdll.dll!UnknownFunction []
+[2020.11.30-14.22.18:819][424]LogOutputDevice: Error: 
+[2020.11.30-14.22.18:828][424]LogStats:                SubmitErrorReport -  0.000 s

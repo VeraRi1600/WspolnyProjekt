@@ -1,0 +1,1363 @@
+﻿Log file open, 01/13/21 19:22:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject4
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.546764
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/g/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.13-18.22.30:343][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.13-18.22.30:343][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.13-18.22.30:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2021.01.13-18.22.30:343][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.13-18.22.30:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2021.01.13-18.22.30:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2021.01.13-18.22.30:343][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.13-18.22.30:344][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2021.01.13-18.22.30:344][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2021.01.13-18.22.30:348][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.13-18.22.30:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.13-18.22.30:349][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.13-18.22.30:349][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.13-18.22.30:349][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.13-18.22.30:367][  0]LogHAL: Display: Platform has ~ 16 GB [17116282880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.01.13-18.22.30:367][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.13-18.22.30:367][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.13-18.22.30:367][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.13-18.22.30:368][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.13-18.22.30:369][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.13-18.22.30:369][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.13-18.22.30:369][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Config/Windows/Engine.ini]
+[2021.01.13-18.22.30:369][  0]LogInit: Computer: DESKTOP-9S97J2U
+[2021.01.13-18.22.30:369][  0]LogInit: User: User
+[2021.01.13-18.22.30:369][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.13-18.22.30:369][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.13-18.22.30:369][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.13-18.22.30:369][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.13-18.22.30:369][  0]LogMemory: Process Physical Memory: 98.12 MB used, 98.13 MB peak
+[2021.01.13-18.22.30:369][  0]LogMemory: Process Virtual Memory: 90.09 MB used, 90.10 MB peak
+[2021.01.13-18.22.30:369][  0]LogMemory: Physical Memory: 8491.00 MB used,  7832.36 MB free, 16323.36 MB total
+[2021.01.13-18.22.30:369][  0]LogMemory: Virtual Memory: 4646.61 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2021.01.13-18.22.30:410][  0]LogInit: Using OS detected language (pl-PL).
+[2021.01.13-18.22.30:410][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.01.13-18.22.30:411][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.01.13-18.22.30:411][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.01.13-18.22.30:411][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.01.13-18.22.30:412][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.01.13-18.22.30:412][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.01.13-18.22.30:412][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.01.13-18.22.30:412][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.01.13-18.22.30:412][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.01.13-18.22.30:413][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.13-18.22.30:477][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.13-18.22.30:477][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.13-18.22.30:714][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.13-18.22.30:714][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.13-18.22.30:795][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.01.13-18.22.30:795][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.13-18.22.30:797][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.13-18.22.30:797][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.13-18.22.30:797][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.13-18.22.30:805][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.13-18.22.30:805][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.13-18.22.30:805][  0]LogWindows: EnumDisplayDevices:
+[2021.01.13-18.22.30:805][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.01.13-18.22.30:806][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.01.13-18.22.30:806][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.01.13-18.22.30:806][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.01.13-18.22.30:806][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.13-18.22.30:806][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.01.13-18.22.30:806][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2021.01.13-18.22.30:806][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2021.01.13-18.22.30:806][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.01.13-18.22.30:859][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.13-18.22.30:862][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.13-18.22.30:862][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.13-18.22.30:862][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.13-18.22.30:870][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.13-18.22.31:137][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.01.13-18.22.31:148][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.01.13-18.22.31:158][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.01.13-18.22.31:169][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.01.13-18.22.31:179][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.01.13-18.22.31:189][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.01.13-18.22.31:200][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.13-18.22.31:210][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.01.13-18.22.31:215][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.01.13-18.22.31:278][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.01.13-18.22.31:280][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.01.13-18.22.31:323][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.01.13-18.22.31:323][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.01.13-18.22.31:342][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.01.13-18.22.31:342][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.01.13-18.22.31:352][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.01.13-18.22.31:362][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.13-18.22.31:371][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.01.13-18.22.31:382][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.01.13-18.22.31:421][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.01.13-18.22.31:421][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.01.13-18.22.31:421][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.13-18.22.31:427][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.13-18.22.31:462][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/MyProject4/Intermediate/Shaders/WorkingDirectory/17772/).
+[2021.01.13-18.22.31:462][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/930C51D54AB3031259D9A787E8F38D28/'.
+[2021.01.13-18.22.31:463][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.13-18.22.31:463][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.13-18.22.31:463][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.13-18.22.31:922][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.13-18.22.31:966][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.13-18.22.31:966][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.01.13-18.22.31:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/MyProject4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.13-18.22.31:966][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.13-18.22.31:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/MyProject4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.13-18.22.31:966][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.13-18.22.31:976][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.13-18.22.31:976][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.13-18.22.31:976][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.13-18.22.31:988][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.13-18.22.31:988][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.13-18.22.31:988][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.13-18.22.32:005][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.13-18.22.32:006][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.13-18.22.32:007][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.13-18.22.32:096][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2021.01.13-18.22.32:356][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.13-18.22.32:462][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.13-18.22.32:462][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.13-18.22.32:462][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.13-18.22.32:462][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.13-18.22.32:462][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.13-18.22.32:471][  0]LogNetVersion: MyProject4 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2436511686)
+[2021.01.13-18.22.32:845][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.044384 seconds
+[2021.01.13-18.22.32:850][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.01.13-18.22.32:850][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.01.13-18.22.32:850][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.13-18.22.33:665][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.13-18.22.33:678][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.13-18.22.33:772][  0]SourceControl: Source control is disabled
+[2021.01.13-18.22.33:773][  0]SourceControl: Source control is disabled
+[2021.01.13-18.22.33:774][  0]SourceControl: Source control is disabled
+[2021.01.13-18.22.33:775][  0]SourceControl: Source control is disabled
+[2021.01.13-18.22.33:836][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.13-18.22.33:922][  0]LogOcInput: OculusInput pre-init called
+[2021.01.13-18.22.34:672][  0]LogEngine: Initializing Engine...
+[2021.01.13-18.22.34:673][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.13-18.22.34:674][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.13-18.22.34:841][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.13-18.22.34:849][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.13-18.22.34:884][  0]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.13-18.22.34:906][  0]LogInit: FAudioDevice initialized.
+[2021.01.13-18.22.34:907][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.13-18.22.34:967][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.13-18.22.34:975][  0]LogInit: Texture streaming: Enabled
+[2021.01.13-18.22.34:989][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.13-18.22.35:024][  0]LogInit: Transaction tracking system initialized
+[2021.01.13-18.22.35:038][  0]BlueprintLog: New page: Editor Load
+[2021.01.13-18.22.35:088][  0]LocalizationService: Localization service is disabled
+[2021.01.13-18.22.35:448][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.13-18.22.35:448][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.13-18.22.35:621][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/' took 0.02s
+[2021.01.13-18.22.35:621][  0]SourceControl: Source control is disabled
+[2021.01.13-18.22.35:621][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.13-18.22.35:621][  0]LightingResults: New page: Lighting Build
+[2021.01.13-18.22.35:623][  0]MapCheck: New page: Map Check
+[2021.01.13-18.22.35:623][  0]LightingResults: New page: Lighting Build
+[2021.01.13-18.22.35:647][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.13-18.22.42:352][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.13-18.22.45:245][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.13-18.22.45:324][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.13-18.22.45:324][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.13-18.22.45:324][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,213ms to complete.
+[2021.01.13-18.22.45:324][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 9.703
+[2021.01.13-18.22.49:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-18.22.49:428][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-18.22.49:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-18.22.49:439][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-18.22.49:982][  0]LogCollectionManager: Loaded 0 collections in 0.001174 seconds
+[2021.01.13-18.22.50:682][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/Collections/' took 0.01s
+[2021.01.13-18.22.50:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/Developers/User/Collections/' took 0.01s
+[2021.01.13-18.22.50:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/Collections/' took 0.00s
+[2021.01.13-18.22.50:683][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.01.13-18.22.50:743][  0]LogContentBrowser: Native class hierarchy populated in 0.0203 seconds. Added 2732 classes and 659 folders.
+[2021.01.13-18.22.51:393][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.13-18.22.51:609][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.51:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.51:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.51:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.51:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:405][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.52:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.53:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.53:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.53:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.53:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.53:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.53:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.53:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.13-18.22.56:334][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.13-18.22.56:841][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.01.13-18.23.00:158][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.13-18.23.00:259][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.13-18.23.00:719][  0]LogSlate: Took 0.024068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.13-18.23.02:827][  0]LogRenderer: Reallocating scene render targets to support 1032x652 Format 10 NumSamples 1 (Frame:1).
+[2021.01.13-18.23.05:159][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.13-18.23.05:159][  0]LogLoad: (Engine Initialization) Total time: 37.57 seconds
+[2021.01.13-18.23.05:159][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.13-18.23.05:571][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.13-18.23.05:812][  1]LogAssetRegistry: Asset discovery search completed in 33.7394 seconds
+[2021.01.13-18.23.05:813][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.01.13-18.23.05:813][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2021.01.13-18.23.06:209][  1]LogSlate: Took 0.049584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.13-18.24.44:998][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.24.45:081][274]LogSlate: Window 'Message Log' being destroyed
+[2021.01.13-18.24.45:085][274]LogSlate: Window 'Message Log' being destroyed
+[2021.01.13-18.24.53:813][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.25.08:602][284]Cmd: DELETE
+[2021.01.13-18.25.08:607][284]Cmd: ACTOR DELETE
+[2021.01.13-18.25.08:830][284]LogEditorActor: Deleted Actor: PostProcessVolume
+[2021.01.13-18.25.08:864][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.01.13-18.25.08:879][284]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2021.01.13-18.25.10:546][371]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2021.01.13-18.25.17:394][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.26.07:025][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.26.23:977][958]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.13-18.26.24:015][958]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\studia\PRZESTRZEŃ\tekstury\tails\RGBTable16x1.png)
+[2021.01.13-18.26.24:110][958]LogTexture: Display: Building textures: RGBTable16x1 (AutoDXT, 256X16)
+[2021.01.13-18.26.36:562][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dywan3)
+[2021.01.13-18.26.40:743][671]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.26.42:645][874]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.26.43:171][918]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2021.01.13-18.27.03:043][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.27.03:227][262]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/FirstPersonBP/hospital/RGBTable16x1.RGBTable16x1
+[2021.01.13-18.27.03:270][262]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.01.13-18.27.14:846][103]LogTexture: Display: Building textures: RGBTable16x1 (AutoDXT, 256X16)
+[2021.01.13-18.27.45:326][757]LogTexture: Display: Building textures: RGBTable16x1 (BGRA8, 256X16)
+[2021.01.13-18.27.52:340][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/hospital/RGBTable16x1" FILE="C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/hospital/RGBTable16x1.uasset" SILENT=true
+[2021.01.13-18.27.52:402][583]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/RGBTable16x131E1139E4BA8E7F69BD2CC9C107B2AE7.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/hospital/RGBTable16x1.uasset'
+[2021.01.13-18.27.53:610][723]LogSlate: Window 'RGBTable16x1' being destroyed
+[2021.01.13-18.27.53:615][723]LogSlate: Window 'RGBTable16x1' being destroyed
+[2021.01.13-18.30.24:908][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.30.24:940][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.01.13-18.30.26:875][423]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap327C289A4D8C0C4E75F377BAE7BC59CE.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-18.30.27:538][423]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltDataC56F44F64DFAC26A7700C4B37B02BE66.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-18.30.33:932][612]Cmd: EDCALLBACK SURFPROPS
+[2021.01.13-18.30.39:204][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.30.47:745][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\studia\PRZESTRZEŃ\tekstury\tails\Twall3.png)
+[2021.01.13-18.30.47:863][230]LogTexture: Display: Building textures: Twall3 (AutoDXT, 2480X2480)
+[2021.01.13-18.30.48:754][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\studia\PRZESTRZEŃ\tekstury\tails\Twall4.png)
+[2021.01.13-18.30.48:864][230]LogTexture: Display: Building textures: Twall4 (AutoDXT, 2480X2480)
+[2021.01.13-18.31.10:804][ 51]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPersonBP/hospital/texture/wall_mat2.wall_mat2
+[2021.01.13-18.31.11:504][ 51]LogRenderer: Reallocating scene render targets to support 1032x656 Format 10 NumSamples 1 (Frame:1).
+[2021.01.13-18.31.16:794][428]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:6).
+[2021.01.13-18.31.22:856][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/hospital/texture/wall_mat2" FILE="C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/hospital/texture/wall_mat2.uasset" SILENT=true
+[2021.01.13-18.31.22:879][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.01.13-18.31.22:897][807]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.13-18.31.24:141][807]TextureStreamingBuild: Display: Compiling optional shaders took 1.262 seconds.
+[2021.01.13-18.31.24:182][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.13-18.31.24:196][807]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/wall_mat243E26BC540ECA2327FF9C2B46D45A737.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/hospital/texture/wall_mat2.uasset'
+[2021.01.13-18.31.24:676][844]LogSlate: Window 'wall_mat2' being destroyed
+[2021.01.13-18.31.24:680][844]LogSlate: Window 'wall_mat2' being destroyed
+[2021.01.13-18.31.29:804][278]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPersonBP/hospital/texture/wall_mat3.wall_mat3
+[2021.01.13-18.31.33:629][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/hospital/texture/wall_mat3" FILE="C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/hospital/texture/wall_mat3.uasset" SILENT=true
+[2021.01.13-18.31.33:669][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.01.13-18.31.33:683][566]TextureStreamingBuild: Display: Compiling optional shaders took 0.015 seconds.
+[2021.01.13-18.31.33:706][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.13-18.31.33:719][566]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/wall_mat38A0AF7CA4361F94267DD23B18C2FD5DC.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/hospital/texture/wall_mat3.uasset'
+[2021.01.13-18.31.35:013][661]LogSlate: Window 'wall_mat3' being destroyed
+[2021.01.13-18.31.35:017][661]LogSlate: Window 'wall_mat3' being destroyed
+[2021.01.13-18.31.38:177][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.31.40:761][158]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.31.43:285][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.31.49:603][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.31.52:193][951]Cmd: TRANSACTION UNDO
+[2021.01.13-18.31.52:193][951]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.31.53:058][ 11]Cmd: TRANSACTION UNDO
+[2021.01.13-18.31.53:058][ 11]LogEditorTransaction: Undo Scale Actors
+[2021.01.13-18.31.54:663][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.32.00:282][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.32.00:335][629]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.13-18.32.00:361][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.13-18.32.00:374][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.13-18.32.00:431][629]PIE: New page: PIE session: FirstPersonExampleMap (13 sty 2021, 20:32:00)
+[2021.01.13-18.32.00:479][629]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.13-18.32.00:691][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210842s)
+[2021.01.13-18.32.00:692][629]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.13-18.32.00:699][629]LogPlayLevel: PIE: World Init took: (0.007549s)
+[2021.01.13-18.32.00:699][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.219765s)
+[2021.01.13-18.32.00:723][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.13-18.32.00:775][629]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.13-18.32.00:790][629]LogInit: FAudioDevice initialized.
+[2021.01.13-18.32.00:851][629]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.13-18.32.00:944][629]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.13-19.32.00
+[2021.01.13-18.32.00:998][629]LogWorld: Bringing up level for play took: 0.087987
+[2021.01.13-18.32.01:136][629]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.01.13-18.32.01:162][629]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1,761
+[2021.01.13-18.32.01:173][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.13-18.32.10:735][134]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.13-18.32.10:772][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-18.32.10:827][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.13-18.32.10:827][134]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.13-18.32.10:860][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-18.32.10:876][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.01.13-18.32.10:914][135]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.01.13-18.32.18:903][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.13-18.32.25:221][247]Cmd: EDCALLBACK SURFPROPS
+[2021.01.13-18.32.27:423][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.32.29:449][578]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.32.30:800][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.32.33:948][929]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.13-18.32.35:718][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.13-18.32.44:694][512]Cmd: EDCALLBACK SURFPROPS
+[2021.01.13-18.32.55:967][106]Cmd: EDCALLBACK SURFPROPS
+[2021.01.13-18.32.57:046][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.32.58:524][370]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.37.46:575][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.37.46:604][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.01.13-18.37.48:050][609]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap150ECC23444F53D2924260A37D719AB8.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-18.37.48:468][609]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData5AE1C61C4AAB45F478F3BA8C6C2F6A22.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-18.41.15:945][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.41.32:307][503]Cmd: EDCALLBACK SURFPROPS
+[2021.01.13-18.41.37:787][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.41.39:612][755]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.41.40:623][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.41.54:895][275]Cmd: TRANSACTION UNDO
+[2021.01.13-18.41.54:895][275]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.41.55:809][302]Cmd: TRANSACTION UNDO
+[2021.01.13-18.41.55:809][302]LogEditorTransaction: Undo Set Material
+[2021.01.13-18.41.57:338][352]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2021.01.13-18.41.59:986][435]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.42.01:941][504]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.42.02:947][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.42.07:940][698]Cmd: TRANSACTION UNDO
+[2021.01.13-18.42.07:940][698]LogEditorTransaction: Undo Set Material
+[2021.01.13-18.42.14:708][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.42.19:101][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.42.23:124][370]Cmd: POLY SELECT MATCHING TEXTURE
+[2021.01.13-18.42.25:604][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.42.33:513][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.42.34:701][802]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.42.53:943][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.42.57:570][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.42.59:519][505]Cmd: TRANSACTION UNDO
+[2021.01.13-18.42.59:519][505]LogEditorTransaction: Undo Set Material
+[2021.01.13-18.43.01:002][613]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.43.03:133][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.43.11:966][248]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.11:967][248]LogEditorTransaction: Undo Scale Actors
+[2021.01.13-18.43.12:042][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15523' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:042][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15523.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:043][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15524' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:043][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15524.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:043][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15525' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:043][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15525.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:044][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15526' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:044][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15526.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:044][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15527' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:044][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15527.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:045][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15528' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:045][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15528.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:045][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15529' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:045][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15529.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:045][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15530' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:045][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15530.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:046][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15531' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:046][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15531.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:046][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15532' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:046][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15532.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:046][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15533' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:046][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15533.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:047][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15534' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:047][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15534.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:048][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15535' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:048][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15535.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:048][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15536' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:048][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15536.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:048][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15537' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:048][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15537.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:049][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15538' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:049][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15538.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:050][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15539' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:050][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15539.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:050][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15540' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:050][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15540.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:051][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15541' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:051][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15541.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:051][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15542' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:051][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15542.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:052][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15543' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:052][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15543.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:053][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15544' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:053][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15544.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:053][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15545' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:053][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15545.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:053][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15546' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:053][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15546.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:054][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15547' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:054][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15547.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:054][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15548' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:054][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15548.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:054][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15549' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:054][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15549.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:055][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15550' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:055][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15550.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:055][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15551' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:056][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15551.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:056][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15552' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:056][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15552.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:056][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15553' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:056][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15553.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:057][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15554' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:057][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15554.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:057][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15555' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:057][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15555.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:058][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15556' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:058][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15556.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:058][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15557' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:058][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15557.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:059][248]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15558' invalid (21011 verts, 0 indices).
+[2021.01.13-18.43.12:059][248]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_15558.BodySetup_0 when we are unable to.
+[2021.01.13-18.43.12:285][251]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.12:285][251]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.43.12:544][260]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.12:544][260]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.43.12:779][269]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.12:780][269]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-18.43.13:074][281]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.13:074][281]LogEditorTransaction: Undo Set Material
+[2021.01.13-18.43.13:355][292]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.13:355][292]LogEditorTransaction: Undo Select All Adjacent
+[2021.01.13-18.43.13:633][303]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.13:633][303]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.43.13:873][312]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.13:873][312]LogEditorTransaction: Undo Set Material
+[2021.01.13-18.43.14:106][321]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.14:106][321]LogEditorTransaction: Undo Select All Adjacent
+[2021.01.13-18.43.14:396][333]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.14:396][333]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.43.14:673][344]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.14:673][344]LogEditorTransaction: Undo Set Material
+[2021.01.13-18.43.14:921][354]Cmd: TRANSACTION UNDO
+[2021.01.13-18.43.14:921][354]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.44.02:324][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.44.06:727][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.44.06:756][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.13-18.44.08:258][159]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMapB312F205450F74FBD377AFAE4BC22EB3.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-18.44.08:683][159]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData1F86C6E94A03FA8CC85750B5891F6F8C.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-18.44.12:861][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.44.15:784][619]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.44.31:235][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.44.33:784][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.44.44:322][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.44.45:511][860]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.44.47:182][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.44.48:366][113]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.44.56:649][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.44.58:228][700]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.13-18.44.58:579][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.45.16:506][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.45.16:535][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.13-18.45.17:965][973]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap766E9D4C4CDBA4DCE65528ADAD767769.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-18.45.18:366][973]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltDataC702E66D42F8FB3F6C58A7B93010F349.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-18.45.41:887][977]LogEditorViewport: Clicking on Actor (LMB): barierka_1_prefab_C (barierka_1_prefab19)
+[2021.01.13-18.45.42:616][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab18)
+[2021.01.13-18.45.43:314][105]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_2_prefab_C (barierka_2_prefab13)
+[2021.01.13-18.45.50:077][771]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.45.54:978][282]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab20)
+[2021.01.13-18.45.55:608][349]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab21)
+[2021.01.13-18.46.00:354][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.46.00:693][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.46.37:510][896]LogEditorViewport: Clicking on Actor (LMB): barierka_1_prefab_C (barierka_1_prefab41)
+[2021.01.13-18.46.39:319][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.46.39:349][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.01.13-18.46.40:779][947]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap7D13335F4700D05689F271BC148FE58B.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-18.46.41:185][947]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData437CC80B432C078F18F03CAC265D4984.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-18.46.42:072][967]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab42)
+[2021.01.13-18.46.45:399][ 75]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_2_prefab_C (barierka_2_prefab17)
+[2021.01.13-18.46.49:322][231]Cmd: EDIT COPY
+[2021.01.13-18.46.49:535][240]Cmd: EDIT PASTE
+[2021.01.13-18.47.17:527][429]Cmd: TRANSACTION UNDO
+[2021.01.13-18.47.17:527][429]LogEditorTransaction: Undo Move Actors
+[2021.01.13-18.47.18:260][442]Cmd: TRANSACTION UNDO
+[2021.01.13-18.47.18:260][442]LogEditorTransaction: Undo Paste
+[2021.01.13-18.47.19:045][449]Cmd: TRANSACTION UNDO
+[2021.01.13-18.47.19:046][449]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-18.47.22:927][554]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_2_prefab_C (barierka_2_prefab17)
+[2021.01.13-18.47.24:678][607]Cmd: EDIT COPY
+[2021.01.13-18.47.25:107][610]Cmd: EDIT PASTE
+[2021.01.13-18.48.03:480][ 74]LogEditorViewport: Clicking on Actor (LMB): barierka_1_prefab_C (barierka_1_prefab45)
+[2021.01.13-18.48.04:499][187]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_2_prefab_C (barierka_2_prefab19)
+[2021.01.13-18.48.05:654][321]Cmd: EDIT COPY
+[2021.01.13-18.48.05:921][352]Cmd: EDIT PASTE
+[2021.01.13-18.48.31:642][974]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab44)
+[2021.01.13-18.48.32:438][989]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab45)
+[2021.01.13-18.48.34:561][ 86]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_2_prefab_C (barierka_2_prefab19)
+[2021.01.13-18.48.51:568][529]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.48.51:678][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.49.46:401][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.50.04:509][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\studia\PRZESTRZEŃ\tekstury\wall decal_1.png)
+[2021.01.13-18.50.04:625][286]LogTexture: Display: Building textures: wall_decal_1 (AutoDXT, 2480X2480)
+[2021.01.13-18.50.10:764][318]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\studia\PRZESTRZEŃ\tekstury\ZACIEKI_DECAL.png)
+[2021.01.13-18.50.10:852][318]LogTexture: Display: Building textures: ZACIEKI_DECAL (AutoDXT, 2480X2480)
+[2021.01.13-18.50.13:243][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.50.14:403][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.13-18.50.15:666][520]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.13-18.50.15:676][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.50.15:716][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.50.15:747][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.01.13-18.50.17:026][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.50.17:052][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.13-18.50.18:561][641]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap78B44B3A4CBC02D779BD12A4C9B6E17D.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-18.50.18:994][641]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData355DCCE14BCED05B9933D4AACF1F62E4.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-18.50.29:811][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.50.32:431][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.51.00:414][222]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.51.08:854][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.51.10:920][360]Cmd: TRANSACTION UNDO
+[2021.01.13-18.51.10:920][360]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.51.11:455][412]Cmd: TRANSACTION UNDO
+[2021.01.13-18.51.11:455][412]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.51.12:608][541]Cmd: TRANSACTION UNDO
+[2021.01.13-18.51.12:608][541]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.51.13:001][579]Cmd: TRANSACTION UNDO
+[2021.01.13-18.51.13:001][579]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-18.51.13:431][627]Cmd: TRANSACTION UNDO
+[2021.01.13-18.51.13:431][627]LogEditorTransaction: Undo Scale Actors
+[2021.01.13-18.51.25:673][ 79]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.13-18.51.49:472][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.51.58:584][240]Cmd: DELETE
+[2021.01.13-18.51.58:584][240]Cmd: ACTOR DELETE
+[2021.01.13-18.51.58:612][240]LogEditorActor: Deleted Actor: DecalActor
+[2021.01.13-18.51.58:637][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.13-18.51.58:638][240]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.01.13-18.52.45:650][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.52.48:204][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.53.16:462][238]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.54.24:361][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.54.26:635][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.54.54:892][ 29]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-18.55.00:481][435]Cmd: TRANSACTION UNDO
+[2021.01.13-18.55.00:481][435]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-18.55.02:010][551]Cmd: EDIT COPY
+[2021.01.13-18.55.02:281][573]Cmd: EDIT PASTE
+[2021.01.13-18.55.27:701][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.55.28:786][155]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.55.30:135][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.55.45:235][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.55.53:082][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.55.53:156][192]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/hospital/texture/FLOOR1_Mat'
+[2021.01.13-18.55.53:156][192]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/hospital/texture/FLOOR1_Mat' while loading NULL.
+[2021.01.13-18.55.53:156][192]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/hospital/texture/FLOOR1_Mat'
+[2021.01.13-18.55.53:157][192]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/hospital/texture/FLOOR1_Mat' while loading NULL.
+[2021.01.13-18.55.53:157][192]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/hospital/texture/FLOOR1_Mat'
+[2021.01.13-18.55.53:157][192]LoadErrors: Failed to load /Game/FirstPersonBP/hospital/texture/FLOOR1_Mat.FLOOR1_Mat Referenced by stołek_mat
+[2021.01.13-18.55.53:157][192]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/hospital/texture/FLOOR1_Mat' while loading NULL.
+[2021.01.13-18.56.16:190][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.56.21:518][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.56.26:492][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.56.29:525][622]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2021.01.13-18.56.30:179][645]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2021.01.13-18.56.40:595][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.56.40:708][100]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2021.01.13-18.56.42:938][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.56.46:966][312]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.250000
+[2021.01.13-18.56.52:153][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.56.55:325][705]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2021.01.13-18.57.00:483][960]Cmd: POLY TEXSCALE  UU=0.166667 VV=0.166667
+[2021.01.13-18.57.10:461][454]LogEditorViewport: Clicking on Actor (LMB): barierka_drewno_1_prefab_C (barierka_drewno_1_prefab5)
+[2021.01.13-18.57.26:414][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.57.34:877][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.58.01:802][528]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.01:802][528]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.03:581][560]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.03:581][560]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.04:255][567]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.04:256][567]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.04:886][572]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.04:886][572]LogEditorTransaction: Undo Set Material
+[2021.01.13-18.58.08:319][625]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.08:319][625]LogEditorTransaction: Undo Move Actors
+[2021.01.13-18.58.09:126][627]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.09:126][627]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.09:147][627]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.09:147][627]LogEditorTransaction: Undo Set Material
+[2021.01.13-18.58.09:688][631]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.09:688][631]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.09:710][631]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.09:710][631]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.09:875][634]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.09:875][634]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.10:282][635]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.10:282][635]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.10:346][636]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.10:346][636]LogEditorTransaction: Undo Move Actors
+[2021.01.13-18.58.10:754][638]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.10:754][638]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-18.58.10:871][639]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.10:871][639]LogEditorTransaction: Undo Move Actors
+[2021.01.13-18.58.10:936][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_455' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:936][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_455.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:936][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_456' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:936][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_456.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:937][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_457' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:937][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_457.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:937][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_458' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:937][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_458.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:937][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_459' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:937][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_459.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:938][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_460' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:938][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_460.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:938][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_461' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:938][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_461.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:938][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_462' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:938][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_462.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:939][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_463' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:939][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_463.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:939][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_464' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:939][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_464.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:939][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_465' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:939][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_465.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:940][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_466' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:940][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_466.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:940][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_467' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:940][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_467.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:940][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_468' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:940][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_468.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:940][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_469' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:940][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_469.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:941][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_470' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:941][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_470.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:941][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_471' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:941][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_471.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:941][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_472' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:941][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_472.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:941][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_473' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:941][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_473.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:942][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_474' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:942][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_474.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:942][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_475' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:942][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_475.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:942][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_476' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:942][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_476.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:943][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_477' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:943][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_477.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:943][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_478' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:943][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_478.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:943][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_479' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:943][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_479.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:943][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_480' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:943][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_480.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:944][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_481' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:944][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_481.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:944][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_482' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:944][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_482.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:944][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_483' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:944][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_483.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:944][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_484' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:944][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_484.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:945][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_485' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:945][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_485.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:945][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_486' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:945][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_486.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:945][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_487' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:945][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_487.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:946][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_488' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:946][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_488.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.10:946][639]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_489' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.10:946][639]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_489.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.19:494][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.58.23:374][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.58.35:198][522]LogEditorViewport: Clicking on Actor (LMB): barierka_2_prefab_C (barierka_2_prefab)
+[2021.01.13-18.58.36:486][557]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab)
+[2021.01.13-18.58.38:183][611]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab)
+[2021.01.13-18.58.38:807][628]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_2_prefab_C (barierka_2_prefab2)
+[2021.01.13-18.58.42:113][749]Cmd: TRANSACTION UNDO
+[2021.01.13-18.58.42:113][749]LogEditorTransaction: Undo Move Actors
+[2021.01.13-18.58.42:176][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_455' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:176][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_455.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:177][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_456' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:177][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_456.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:177][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_457' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:177][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_457.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:178][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_458' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:178][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_458.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:178][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_459' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:178][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_459.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:178][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_460' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:178][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_460.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_461' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_461.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_462' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_462.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_463' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_463.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_464' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_464.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_465' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:179][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_465.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_466' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_466.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_467' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_467.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_468' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_468.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_469' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_469.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_470' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_470.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_471' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:180][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_471.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_472' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_472.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_473' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_473.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_474' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_474.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_475' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_475.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_476' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:181][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_476.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:182][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_477' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:182][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_477.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:182][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_478' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:182][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_478.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:182][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_479' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:182][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_479.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:182][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_480' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:182][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_480.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:183][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_481' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:183][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_481.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:183][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_482' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:183][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_482.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:183][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_483' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:183][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_483.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:184][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_484' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:184][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_484.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:184][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_485' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:184][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_485.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:184][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_486' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:184][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_486.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:184][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_487' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:184][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_487.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:185][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_488' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:185][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_488.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.42:185][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_489' invalid (15681 verts, 0 indices).
+[2021.01.13-18.58.42:185][749]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_489.BodySetup_0 when we are unable to.
+[2021.01.13-18.58.48:207][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.58.48:237][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.01.13-18.58.49:724][965]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap43FECF434EB66C0D4367F58AA83CD92A.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-18.58.50:155][965]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData52214A1E4C0D361CBA959B86E2F43C86.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-18.58.55:925][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.58.58:926][365]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.59.40:205][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-18.59.41:414][539]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-18.59.42:370][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-18.59.50:812][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.01.05:076][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.01.09:987][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.13-19.01.11:419][995]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap2DFF365E49DCCFF483C4C4A0F009C540.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-19.01.11:837][995]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData4871B3F448A8215E83932AA05F3EA463.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-19.01.14:468][ 24]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\studia\PRZESTRZEŃ\tekstury\wall decal.png)
+[2021.01.13-19.01.14:581][ 24]LogTexture: Display: Building textures: wall_decal (AutoDXT, 2480X2480)
+[2021.01.13-19.01.17:207][ 24]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\studia\PRZESTRZEŃ\tekstury\wall decal_1.png)
+[2021.01.13-19.01.17:320][ 24]LogTexture: Display: Building textures: wall_decal_1 (AutoDXT, 2480X2480)
+[2021.01.13-19.01.56:472][727]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab19)
+[2021.01.13-19.01.57:870][808]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_2_prefab_C (barierka_2_prefab13)
+[2021.01.13-19.01.58:566][844]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab18)
+[2021.01.13-19.01.59:901][913]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab20)
+[2021.01.13-19.02.02:041][ 17]Cmd: TRANSACTION UNDO
+[2021.01.13-19.02.02:042][ 17]LogEditorTransaction: Undo Move Actors
+[2021.01.13-19.02.02:117][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_630' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:117][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_630.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:117][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_631' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:117][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_631.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:118][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_632' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:118][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_632.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:118][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_633' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:118][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_633.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:118][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_634' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:118][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_634.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:119][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_635' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:119][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_635.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:119][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_636' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:119][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_636.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:119][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_637' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:119][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_637.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:120][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_638' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:120][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_638.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:120][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_639' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:120][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_639.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:120][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_640' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:120][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_640.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:120][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_641' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:120][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_641.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_642' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_642.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_643' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_643.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_644' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_644.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_645' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_645.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_646' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_646.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:121][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_647' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_647.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_648' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_648.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_649' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_649.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_650' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_650.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_651' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:122][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_651.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:123][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_652' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:123][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_652.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:123][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_653' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:123][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_653.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:123][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_654' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:123][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_654.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:123][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_655' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:123][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_655.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_656' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_656.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_657' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_657.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_658' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_658.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_659' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_659.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:124][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_660' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:125][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_660.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:125][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_661' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:125][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_661.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:125][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_662' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:125][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_662.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:125][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_663' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:125][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_663.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.02:125][ 17]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_664' invalid (15697 verts, 0 indices).
+[2021.01.13-19.02.02:126][ 17]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_664.BodySetup_0 when we are unable to.
+[2021.01.13-19.02.03:811][107]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab21)
+[2021.01.13-19.02.17:302][206]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.02.23:892][680]Cmd: TRANSACTION UNDO
+[2021.01.13-19.02.23:893][680]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-19.02.33:371][611]LogEditorViewport: Clicking on Actor (LMB): OKNO_PREFAB_C (OKNO_PREFAB8)
+[2021.01.13-19.02.36:430][929]Cmd: TRANSACTION UNDO
+[2021.01.13-19.02.36:430][929]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-19.02.36:927][957]Cmd: TRANSACTION UNDO
+[2021.01.13-19.02.36:928][957]LogEditorTransaction: Undo Move Actors
+[2021.01.13-19.02.37:981][ 45]LogEditorViewport: Clicking on Actor (LMB): OKNO_PREFAB_C (OKNO_PREFAB9)
+[2021.01.13-19.02.39:259][178]LogEditorViewport: Clicking on Actor (CTRL LMB): OKNO_PREFAB_C (OKNO_PREFAB8)
+[2021.01.13-19.02.44:313][717]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab19)
+[2021.01.13-19.02.45:106][799]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_2_prefab_C (barierka_2_prefab13)
+[2021.01.13-19.02.45:957][888]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab18)
+[2021.01.13-19.02.47:377][ 21]Cmd: TRANSACTION UNDO
+[2021.01.13-19.02.47:377][ 21]LogEditorTransaction: Undo Move Actors
+[2021.01.13-19.02.48:828][128]Cmd: TRANSACTION UNDO
+[2021.01.13-19.02.48:828][128]LogEditorTransaction: Undo Move Actors
+[2021.01.13-19.02.52:845][508]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab20)
+[2021.01.13-19.02.53:846][621]LogEditorViewport: Clicking on Actor (CTRL LMB): barierka_1_prefab_C (barierka_1_prefab21)
+[2021.01.13-19.03.04:479][462]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.03.09:370][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.03.11:743][207]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-19.03.14:825][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.03.16:884][779]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.13-19.03.23:717][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.03.24:658][318]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-19.03.25:682][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.03.34:672][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.03.35:576][248]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-19.03.36:423][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.03.44:693][931]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.03.52:034][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.03.52:071][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.13-19.03.53:544][502]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap77B735114F87DC54A38608BDA3594C8A.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-19.03.53:984][502]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData5C96D0B94F96B18380B38BB9DE4FB2D2.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-19.04.14:350][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.04.25:835][949]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPersonBP/hospital/texture/Decal/wall_d_1.wall_d_1
+[2021.01.13-19.04.31:452][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.13-19.04.31:452][397]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.01.13-19.04.31:472][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.01.13-19.04.31:485][397]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/wall_d_1D5E04A454F23B5AFE4CDEF99097FFB31.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/hospital/texture/Decal/wall_d_1.uasset'
+[2021.01.13-19.04.32:536][493]LogSlate: Window 'wall_d_1' being destroyed
+[2021.01.13-19.04.32:551][493]LogSlate: Window 'wall_d_1' being destroyed
+[2021.01.13-19.04.36:250][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.04.38:151][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.05.30:540][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.05.38:922][ 28]Cmd: TRANSACTION UNDO
+[2021.01.13-19.05.38:922][ 28]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-19.05.40:256][ 97]Cmd: TRANSACTION UNDO
+[2021.01.13-19.05.40:256][ 97]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-19.05.55:118][977]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.05.56:303][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.05.56:331][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.13-19.05.57:783][ 38]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap6C252F284927C6B5703E10A242CF1B51.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-19.05.58:196][ 38]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData4E4C1F624C16EB1014FC838F99508090.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-19.06.50:288][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.06.52:742][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.07.07:934][319]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.07.10:878][527]Cmd: TRANSACTION UNDO
+[2021.01.13-19.07.10:878][527]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-19.07.14:797][803]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.13-19.07.25:779][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.07.25:807][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.01.13-19.07.27:234][601]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap61C1D78544BA800FFEFD2CAE7D1E52A6.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-19.07.27:640][601]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltDataBC33D7F54511B38146AE2A98018E0DDA.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-19.07.58:491][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.08.00:544][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.08.34:075][212]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.08.53:013][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.09.39:176][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.09.45:224][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.10.10:484][552]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.10.25:372][661]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.10.32:556][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.10.34:465][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.10.42:206][247]Cmd: TRANSACTION UNDO
+[2021.01.13-19.10.42:206][247]LogEditorTransaction: Undo Scale Actors
+[2021.01.13-19.10.58:373][129]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.13-19.11.07:227][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.11.14:553][340]Cmd: EDCALLBACK SURFPROPS
+[2021.01.13-19.11.15:794][446]Cmd: TRANSACTION UNDO
+[2021.01.13-19.11.15:794][446]LogEditorTransaction: Undo Select Surface
+[2021.01.13-19.11.18:632][643]Cmd: TRANSACTION UNDO
+[2021.01.13-19.11.18:632][643]LogEditorTransaction: Undo Move Actors
+[2021.01.13-19.11.19:581][696]Cmd: TRANSACTION UNDO
+[2021.01.13-19.11.19:581][696]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-19.11.37:201][ 40]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.11.52:409][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.11.54:393][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.12.15:904][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.12.32:794][426]Cmd: TRANSACTION UNDO
+[2021.01.13-19.12.32:794][426]LogEditorTransaction: Undo Move Actors
+[2021.01.13-19.12.46:476][ 52]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.13-19.12.51:046][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.12.54:407][586]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2021.01.13-19.12.58:535][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.13.01:087][ 67]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2021.01.13-19.13.08:146][466]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2021.01.13-19.13.10:302][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.13.13:166][685]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.13.13:759][724]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2021.01.13-19.14.04:925][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.14.09:941][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.14.12:422][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.14.13:418][151]Cmd: DELETE
+[2021.01.13-19.14.13:419][151]Cmd: ACTOR DELETE
+[2021.01.13-19.14.13:443][151]LogEditorActor: Deleted Actor: PostProcessVolume
+[2021.01.13-19.14.13:465][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.01.13-19.14.13:466][151]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.01.13-19.14.29:264][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.14.29:291][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.13-19.14.30:764][774]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMapA1510CBD406E3F92B28625B1252D02C1.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.13-19.14.31:189][774]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData0ED34E934613313DC07D5F869C14D6F6.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.13-19.14.42:903][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.14.49:061][358]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-19.14.55:095][983]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.14.59:212][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.13-19.15.00:243][431]Cmd: POLY SELECT ADJACENT COPLANARS
+[2021.01.13-19.15.01:181][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.13-19.15.02:932][724]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.13-19.15.09:186][452]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2021.01.13-19.15.09:896][533]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2021.01.13-19.15.25:061][431]Cmd: TRANSACTION UNDO
+[2021.01.13-19.15.25:061][431]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-19.15.25:425][434]Cmd: TRANSACTION UNDO
+[2021.01.13-19.15.25:426][434]LogEditorTransaction: Undo Set Texscale
+[2021.01.13-19.15.25:762][439]Cmd: TRANSACTION UNDO
+[2021.01.13-19.15.25:762][439]LogEditorTransaction: Undo Select All Adjacent
+[2021.01.13-19.15.26:134][444]Cmd: TRANSACTION UNDO
+[2021.01.13-19.15.26:134][444]LogEditorTransaction: Undo Select Adjacent Coplanars
+[2021.01.13-19.15.26:509][451]Cmd: TRANSACTION UNDO
+[2021.01.13-19.15.26:509][451]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.13-19.15.27:205][468]Cmd: TRANSACTION UNDO
+[2021.01.13-19.15.27:205][468]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.13-19.15.27:583][474]Cmd: TRANSACTION UNDO
+[2021.01.13-19.15.27:583][474]LogEditorTransaction: Undo Set Material
+[2021.01.13-19.15.27:604][474]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.13-19.15.29:421][474]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.821 s
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: 
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: Ensure condition failed: Model->Surfs.IsValidIndex(Node.iSurf) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\ModelRender.cpp] [Line: 637]
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: Invalid Surf Index, Idx:859, Num:1077
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: Stack: 
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007fffe4eae789 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007fffe4225ae6 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007fffe422249d UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007fffd6bc2cc8 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007fffd6bc0891 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007fffd6be913d UE4Editor-Renderer.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007fffd6bd24bd UE4Editor-Renderer.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007ffff2731723 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007ffff27325dd UE4Editor-Core.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007ffff273a91b UE4Editor-Core.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007ffff2b24b3f UE4Editor-Core.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007ffff2b208a7 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007ff848b57034 KERNEL32.DLL!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: [Callstack] 0x00007ff849b1d0d1 ntdll.dll!UnknownFunction []
+[2021.01.13-19.15.29:421][474]LogOutputDevice: Error: 
+[2021.01.13-19.15.29:421][474]LogStats:                SubmitErrorReport -  0.000 s
